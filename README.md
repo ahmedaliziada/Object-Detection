@@ -1,5 +1,7 @@
 # Object Tracking App
 
+![alt text](images.jpeg)
+
 ## Overview
 
 This project is an interactive web application for object tracking in videos using computer vision techniques. It leverages OpenCV's background subtraction method to detect and track moving objects in uploaded video files.
@@ -56,6 +58,10 @@ The application is built with Streamlit, providing an easy-to-use interface for 
 - **NumPy**: Numerical computing
 - **Pillow**: Image processing
 - **Matplotlib**: Plotting and visualization
+
+## Demo 
+
+![alt text](<Screenshot 2026-11-13 at 9.57.18 PM.png>)
 
 ## Notebook
 
